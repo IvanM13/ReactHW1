@@ -1,0 +1,28 @@
+body{
+    background-color: darkgrey;
+}
+
+h1{
+    font-size: 34px;
+    margin: 50px;
+    color: brown;
+    text-align: center;
+}
+
+.container{
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.item{
+    text-align:center;
+    font-size: 1.1em;
+    padding: 1.5em;
+}
+
+.color1 {background-color: #675BA7;}
+.color2 {background-color: #9BC850;}
+.color3 {background-color: #A62E5C;}
+.color4 {background-color: #2A9FBC;}
